@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alexandra Denisova - Product Management & PLG Leader</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            float: right;
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        .showcase {
+            min-height: 400px;
+            background: url('https://source.unsplash.com/1600x900/?nature,water') no-repeat 0 -400px;
+            text-align: center;
+            color: #fff;
+        }
+        .showcase h1 {
+            margin-top: 100px;
+            font-size: 55px;
+            margin-bottom: 10px;
+        }
+        .showcase p {
+            font-size: 20px;
+        }
+        .content {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+        .content .main {
+            flex: 3;
+            padding: 20px;
+            background: #fff;
+            margin-right: 20px;
+        }
+        .content .sidebar {
+            flex: 1;
+            padding: 20px;
+            background: #fff;
+        }
+        .content .sidebar h3,
+        .content .main h2 {
+            margin-top: 0;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>Alexandra Denisova</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section class="showcase">
+        <div class="container">
+            <h1>Your Product Management & PLG Leader</h1>
+            <p>Driving deliberate and sustainable growth for startups poised for rapid expansion.</p>
+        </div>
+    </section>
+    <div class="container content">
+        <div class="main">
+            <section id="about">
+                <h2>Why Me?</h2>
+                <p>I specialize in driving deliberate and sustainable growth for startups poised for rapid expansion. My focus is on connecting product work to business objectives, developing growth models, and minimizing commercial risks while maximizing customer value.</p>
+                <p>I excel at crafting actionable product strategies and translating them into clear, executable plans. I thrive in transforming product organizations to foster high-impact work and scalable execution, particularly in complex environments. Grounded in first principles, I am dedicated to creating true customer value based on deep, unique insights, convinced that retention is the cornerstone of growth.</p>
+                <p>Passionate about team development, I have a track record of upskilling my team to excel in demanding environments and adeptly managing all aspects of team leadership, from hiring to budgeting.</p>
+                <p>I thrive in environments where product management is seen as a business-critical role and where the empowerment of autonomous teams is valued. If you believe that investing in these principles leads to greater success, you’ll find me to be a perfect cultural fit.</p>
+            </section>
+            <section id="experience">
+                <h2>Experience</h2>
+                <h3>Director of Product / UXCam</h3>
+                <p>Nov 2021 - Jan 2023</p>
+                <ul>
+                    <li>Redefined UXCam’s product direction that targeted key market opportunities, aligned the product with business objectives, and unblocked stalled growth.</li>
+                    <li>Developed the new product vision and strategy featuring new ICP, product value proposition, and market positioning.</li>
+                    <li>Implemented PLG tactics focused on account activation, team use-case expansion, PQA/L introduction, and clear & beneficial plans & pricing structure.</li>
+                </ul>
+                <h3>Head of Product / Pylot GmbH</h3>
+                <p>Jun 2021 - Nov 2021</p>
+                <ul>
+                    <li>Led the “Innovations Lab” to evaluate, validate, and launch new product ideas, expanding Pylot’s value proposition.</li>
+                    <li>Managed a cross-functional product team of 3 (PO, Designer, UXR), coaching them on product discovery & validation.</li>
+                </ul>
+                <h3>Head of Product / GotPhoto</h3>
+                <p>Apr 2023 - Present</p>
+                <ul>
+                    <li>Leading the transformation of GotPhoto’s product organization, focusing on aligning product initiatives with business growth targets.</li>
+                    <li>Managing 3 product areas (SaaS tool, E-Commerce, Growth) and leading a Product team of 17.</li>
+                </ul>
+                <!-- Add more experiences as needed -->
+            </section>
+        </div>
+        <aside class="sidebar">
+            <section id="skills">
+                <h3>Skills & Domains</h3>
+                <ul>
+                    <li>B2B SaaS</li>
+                    <li>E-Commerce</li>
+                    <li>Platform/API</li>
+                    <li>TravelTech</li>
+                    <li>HRTech</li>
+                    <li>Marketplace</li>
+                    <li>AdTech</li>
+                    <li>Data & Analytics</li>
+                    <li>Self-Serve Products</li>
+                    <li>PLG Growth Models</li>
+                    <li>Product Innovation</li>
+                    <li>P&L</li>
+                    <li>Product Strategy</li>
+                    <li>Product Leadership</li>
+                    <li>Team Development</li>
+                </ul>
+            </section>
+            <section id="contact">
+                <h3>Contact Information</h3>
+                <p>Email: <a href="mailto:sunnydenny@gmail.com">sunnydenny@gmail.com</a></p>
+                <p>Phone: +49 159 06339787</p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/alex-deny/" target="_blank">Alexandra Denisova</a></p>
+            </section>
+        </aside>
+    </div>
+    <footer>
+        <p>&copy; 2024 Alexandra Denisova. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
